@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am interested in data science/machine learning and most of my programs are based on it.<br>🔭 I am currently working on recognizing and translating sign language using neural networks.<br>🔨 My projects are mainly focused on various implementations of various machine learning algorithms from scratch along with their application.
+⚡ I am interested in data science/machine learning and most of my programs are based on it.<br>🔭 I am currently working on recognizing and translating sign language using neural networks.<br>🔨 My projects focus mainly on the implementation of various machine learning algorithms and broadly understood data analysis.
 
 
 ## 🌐 Socials:
