@@ -1,7 +1,3 @@
-# 💫 About Me:
-⚡ I am interested in data science/machine learning and most of my programs are based on it.<br>🔭 I am currently working on recognizing and translating sign language using neural networks.<br>🔨 My projects focus mainly on the implementation of various machine learning algorithms and broadly understood data analysis.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-marchel-248b92239/)
 
